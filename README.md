@@ -33,7 +33,7 @@ SecureScreenStreamer is a simple and secure remote desktop streaming application
 - Clone the repository or download the project files to your local machine 📂  :
 ```bash
 git clone https://github.com/LaithALhaware/Secure-Screen-Streamer.git
-cd SecureScreenStreamer
+cd Secure-Screen-Streamer
 ```
 
 - Install dependencies (if any):
