@@ -1,5 +1,7 @@
 # 🔒🖥️ Secure Screen Streamer
 
+![Alt Text](Main.png)
+
 SecureScreenStreamer is a simple and secure remote desktop streaming application with built-in username and password authentication. It allows you to share your screen over a network while controlling access with login credentials. Perfect for quick and safe remote screen viewing! 👨‍💻👩‍💻
 
 
